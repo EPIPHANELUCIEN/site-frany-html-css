@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.all{
+    background-color: #d9d9d9;
+}
+/* debut partie header */
+.tete{
+    background-color: #ffff;
+    color: #0e0909;
+    display: flex;
+    padding-bottom: 10px;
+}
+.tetelist{
+    display: flex;
+    list-style: none;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.img1{
+    height: auto;
+    width: 250px;
+    margin-right: 50px;
+}
+.ic{
+    height: auto;
+    width: 80px;
+    margin-left: 350px;
+    margin-right: 0px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+/* header paty list */
+.tetelist li{
+   
+    width: 200px;
+    margin-left: 140px;  
+}
+.tetelist a {
+    font-size: 30px;
+    text-decoration: none;
+    color: #000;
+}
+.aaa1 {
+    border-bottom: blue;
+
+}
+/* fin partie header */
+/* debut partie body */
+#présentation {
+    display: flex;
+
+}
+#profile {
+    display: flex;
+    border: xp solid blueviolet;
+}
+#temoigna {
+    display: flex;
+}
+#presentim1 {
+    height: auto;
+    width:1000px;
+    margin-left: 60px;
+    margin-top: 90px;
+}
+#presentatext {
+    font-size: 50px;
+    margin-left: 150px;
+    margin-top: 200px;
+}
+#presentatitre {
+    margin-bottom: 70px;
+}
+/*fin de presentation et image*/
+#temoignagetitre {
+    font-size: 90px;
+    font-family: forte;
+    margin-bottom: 80px;
+    margin-top: 60px;
+
+}
+#bloctemoignage {
+    display: flex;
+    margin-bottom: 60px;
+}
+.temoi {
+    border: solid blue;
+}
+#names {
+    font-weight: bold;
+    font-size: 60px;
+    margin-left: 60px;
+}
+#charifa {
+    height: 350px;
+    width: 350px;
+    margin-right: 400px;
+    margin-left: 50px;
+}
+#alex {
+    height: 350px;
+    width: 350px;
+    margin-left: 400px;
+}
+.temoignageblok {
+    border: solid green;
+
+}
+#commantaire1 {
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-right: 300px;
+}
+#commantaire2 {
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-right: 60px;
+    margin-bottom: 200px;
+}
+/* fin partie body */
+/* debut partie header */
+/* debut partie header */
+/* debut partie header */
+/* debut partie footer */
+.grandpieda{
+    margin-bottom: 0;
+    display: flex;
+    background-color: #28a745;
+    color: #000;  
+    flex-wrap: wrap;
+    margin-left: 0px;
+    padding-bottom: 150px;
+    padding-top: 60px;
+}
+.footservice a{ 
+    color: #000;
+    font-size: 50px;
+    text-decoration: none;
+    margin-right: 50px;
+    margin-top: 50px;
+    font-weight: bold;
+   
+
+}
+.footservice p {
+    font-size: 50px;
+    text-decoration: none;
+    margin-right: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-weight: bold;
+    font-family: forte;
+   
+}
+#piedbase {
+    font-size: 70px;
+    margin-right: 55px;
+    margin-bottom: 110px;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.cat{
+    height: auto;
+    width: 450px;
+    margin-bottom: 50px;
+}
+#pied2{
+   
+    background-color: #737373;
+    color: #000;
+    display: flex;
+    
+    
+}
+
+#pd1{
+    margin: 20px;
+    padding: 20px;
+    font-size: 45px;
+    margin-left: 20px;
+    margin-right: 900px;
+    font-weight: bold;
+   
+}
+#pd2{
+    margin: 20px;
+    padding: 20px;
+    font-size: 45px;
+    margin-left: 50px;
+    margin-right: 20px;
+     font-weight: bold;
+   
+}
+    
+#pied{
+  
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+.footservice ul li {
+    list-style: none;
+}
+.ecart {
+    padding-left: 30px;
+}
+/* fin partie footer */
